@@ -5,4 +5,5 @@
 • I'm interested in software development, DevOps, AI, web & app development, cyber-security and so much more!    
 • If you want to work on a project together, I'd love to collaborate!    
 :point_right: You can reach out to me on my email: umerfiaz251@gmail.com or my Linkedin: https://www.linkedin.com/in/umer-fiaz-396b5521a/
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+You can re
+:point_right: You can connect with me on LinkedIn: <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/umer-fiaz/"/>
