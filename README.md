@@ -6,6 +6,7 @@
 • My goal is to create software technologies with a purpose. I believe that many of the greatest projects come from the desire to improve our daily lives        
 • I'm interested in software development, DevOps, AI, web & app development, cyber-security and so much more!    
 • If you want to work on a project together, I'd love to collaborate!
+• You can checkout all of my work & extracurricular experiences, and projects , in-depth, on my website: https://umerfiaz.com/
 
 :point_right: You can reach out to me on my email or connect with me on LinkedIn: 
 
