@@ -1,10 +1,9 @@
 ### Ahoy there! My name's Umer Fiaz, and I'm a 3rd year software engineering student at the University of Alberta
 
 • I'm a 3rd year software engineering student at the University of Alberta      
-• I've completed 2 internships and am currently completing another at SUBNET Solutions (so 3 internships so far).    
+• I've completed 2 internships and am currently completing another at SUBNET Solutions.    
 • I'm an incoming SWE intern at Dayforce (formerly Ceridian) on the Developer Experience (Infrastructure/Devops & Software Tooling) team :D    
-• My goal is to create software technologies with a purpose. I believe that many of the greatest projects come from the desire to improve our daily lives        
-• I'm interested in software development, DevOps, AI, web & app development, cyber-security and so much more!    
+• My goal is to create software technologies that are consumer-focused and solve real-world problems             
 • If you want to work on a project together, I'd love to collaborate!       
 • You can checkout all of my work & extracurricular experiences, and projects , in-depth, on my website: https://umerfiaz.com/
 
