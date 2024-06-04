@@ -2,8 +2,8 @@
 
 • I'm entering my 4th year of software engineering at the University of Alberta      
 • I've completed 3 internships and am currently completing a fourth one at Dayforce (formerly Ceridian) as an SWE intern on the Developer Experience (Infrastructure & Software Tooling) team          
-• President of the UAlberta Computer Engineering Club 
-• My goal is to create software technologies that are consumer-focused and solve real-world problems               
+• President of the UAlberta Computer Engineering Club                                     
+• My goal is to create software technologies that are consumer-focused and solve real-world problems                          
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/                 
 :point_right: You can reach out to me on my email or connect with me on LinkedIn: 
 
