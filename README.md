@@ -1,4 +1,4 @@
-### Ahoy there! My name's Umer Fiaz, and I'm a 3rd year software engineering student at the University of Alberta
+### Ahoy there! My name's Umer Fiaz : D
 
 • I'm entering my 4th year of software engineering at the University of Alberta      
 
