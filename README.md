@@ -1,8 +1,8 @@
 ### Ahoy there! My name's Umer Fiaz : D
 
-  • I'm entering my 4th year of software engineering at the University of Alberta      
-  • I've completed 3 prior internships and am currently a SWE intern at Dayforce                                              
-  • President of the UAlberta Computer Engineering Club                                     
+      • I'm entering my 4th year of software engineering at the University of Alberta      
+       • I've completed 3 prior internships and am currently a SWE intern at Dayforce                                              
+       • President of the UAlberta Computer Engineering Club                                     
   • My goal is to create software technologies that are consumer-focused and solve real-world problems                          
   • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/                 
   :point_right: You can reach out to me on my email or connect with me on LinkedIn: 
