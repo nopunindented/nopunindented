@@ -1,6 +1,7 @@
 ### Ahoy there! My name's Umer Fiaz : D
 
-• I'm entering my 4th year of software engineering at the University of Alberta      
+• I'm entering my 4th year of software engineering at the University of Alberta     
+
 • I've completed 3 prior internships and am currently a SWE intern at Dayforce       
 
 
