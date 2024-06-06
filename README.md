@@ -2,7 +2,7 @@
 
 • I'm entering my 4th year of software engineering at the University of Alberta      
 
-• I've completed 3 internships and am currently completing a fourth one at Dayforce (formerly Ceridian) as an SWE intern on the Developer Experience (Infrastructure & Software Tooling) team          
+• I've completed 3 prior internships and am currently a SWE intern at Dayforce                                              
 
 • President of the UAlberta Computer Engineering Club                                     
 
