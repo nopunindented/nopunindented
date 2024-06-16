@@ -11,7 +11,7 @@
 
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
 
-• Current project is Jing: https://github.com/nopunindented/Jing
+• Current project I'm working on is Jing: https://github.com/nopunindented/Jing
 
 :point_right: You can reach out to me on my email or connect with me on LinkedIn: 
 
