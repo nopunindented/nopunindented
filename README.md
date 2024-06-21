@@ -11,7 +11,7 @@
 
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
 
-• Current project I'm working on is Jing: https://github.com/nopunindented/Jing (currently working on private automation code)
+• Currently building Jing: https://github.com/nopunindented/Jing (currently working on private automation code)
 
 :point_right: Email: mufiaz@ualberta.ca
 
