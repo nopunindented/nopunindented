@@ -7,7 +7,7 @@
 
 • President of the UAlberta Computer Engineering Club                        
 
-• Addicted to making projects, help       
+• Addicted to making projects, help 😰
 
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
 
