@@ -7,7 +7,7 @@
 
 • President of the UAlberta Computer Engineering Club                        
 
-• My goal is to create software technologies that are consumer-focused and solve real-world problems    
+• Addicted to making projects, help       
 
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
 
