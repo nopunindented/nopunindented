@@ -4,7 +4,6 @@
 
 • I've completed 3 prior internships and am currently a SWE intern at Dayforce       
 
-
 • President of the UAlberta Computer Engineering Club                        
 
 • Addicted to making projects, help 😰
