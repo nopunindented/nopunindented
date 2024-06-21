@@ -13,7 +13,8 @@
 
 • Current project I'm working on is Jing: https://github.com/nopunindented/Jing (currently working on private automation code)
 
-:point_right: You can reach out to me on my email or connect with me on LinkedIn: 
+:point_right: Email: mufiaz@ualberta.ca
+:point_right: LinkedIn: https://www.linkedin.com/in/umer-fiaz/
 
 • Tools I am learning/reviewing:
 
