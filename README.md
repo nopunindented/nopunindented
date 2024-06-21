@@ -15,8 +15,6 @@
 
 :point_right: You can reach out to me on my email or connect with me on LinkedIn: 
 
-<a href="mailto:umerfiaz251@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://www.linkedin.com/in/umer-fiaz/">
-
 • Tools I am learning/reviewing:
 
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
