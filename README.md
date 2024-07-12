@@ -4,6 +4,8 @@
 
 • I've completed 3 prior internships and am currently a SWE intern at Dayforce       
 
+• Incoming Software Engineering Intern @Fidelity Investments for Fall 2024   
+
 • President of the UAlberta Computer Engineering Club                        
 
 • Addicted to making projects, help 😰
