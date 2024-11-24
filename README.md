@@ -1,10 +1,8 @@
 ### Ahoy there! I'm Umer Fiaz : D
 
-• I'm entering my 4th year of software engineering at the University of Alberta     
+• I'm in my 4th year of software engineering at the University of Alberta     
 
-• I've completed 3 prior internships and am currently a SWE intern at Dayforce       
-
-• Incoming Software Engineering Intern @Fidelity Investments for Fall 2024   
+• I've completed 4 prior internships and am currently a SWE intern at Fidelity Investments  
 
 • President of the UAlberta Computer Engineering Club                        
 
