@@ -4,6 +4,8 @@
 
 • I've completed 5 internships at companies including Fidelity Investments & Dayforce (formerly Ceridian)
 
+• Interested in making distributed, reliable, and scalable systems, fullstack development, AI/ML, and more!
+
 • President of the UAlberta Computer Engineering Club                        
 
 • Addicted to making projects, help 😰
