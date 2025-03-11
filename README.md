@@ -2,7 +2,7 @@
 
 • I'm in my 4th year of software engineering at the University of Alberta     
 
-• I've completed 4 prior internships and am currently a SWE intern at Fidelity Investments  
+• I've completed 5 internships at companies including Fidelity Investments & Dayforce (formerly Ceridian)
 
 • President of the UAlberta Computer Engineering Club                        
 
