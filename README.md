@@ -1,6 +1,8 @@
 ### Ahoy there! I'm Umer Fiaz : D
 
-• I'm in my 4th year of software engineering at the University of Alberta     
+• I'm in my 4th year of software engineering at the University of Alberta
+
+• Incoming SWE Intern @Tesla on the Traffic Engineering team (distributed systems & infrastructure)
 
 • I've completed 5 internships at companies including Fidelity Investments & Dayforce (formerly Ceridian)
 
