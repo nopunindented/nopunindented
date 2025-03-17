@@ -1,4 +1,4 @@
-### Ahoy there! I'm Umer Fiaz : D
+### Ahoy there! I'm Umer Fiaz :D
 
 • I'm in my 4th year of software engineering at the University of Alberta
 
