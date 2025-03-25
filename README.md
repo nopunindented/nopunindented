@@ -6,15 +6,11 @@
 
 • I've completed 5 internships at companies including Fidelity Investments & Dayforce (formerly Ceridian)
 
-• Interested in making distributed, reliable, and scalable systems, fullstack development, AI/ML, and more!
-
-• President of the UAlberta Computer Engineering Club                        
+• Interested in making distributed, reliable, and scalable systems, fullstack development, AI/ML, and more!                     
 
 • Addicted to making projects, help 😰
 
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
-
-• Currently building Jing: https://github.com/nopunindented/Jing (currently working on private automation code)
 
 :point_right: Email: mufiaz@ualberta.ca
 
