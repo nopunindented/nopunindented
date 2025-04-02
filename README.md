@@ -10,7 +10,7 @@
 
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
 
-:point_right: LinkedIn: https://www.linkedin.com/in/umer-fiaz/
+:point_right: Feel free to hit me up on LinkedIn: https://www.linkedin.com/in/umer-fiaz/
 
 • Tools I am learning/reviewing:
 
