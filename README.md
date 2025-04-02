@@ -8,8 +8,6 @@
 
 • Interested in making distributed, reliable, and scalable systems, fullstack development, AI/ML, and more!                     
 
-• Addicted to making projects, help 😰
-
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
 
 :point_right: Email: mufiaz@ualberta.ca
