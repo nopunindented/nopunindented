@@ -10,8 +10,6 @@
 
 • You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
 
-:point_right: Email: mufiaz@ualberta.ca
-
 :point_right: LinkedIn: https://www.linkedin.com/in/umer-fiaz/
 
 • Tools I am learning/reviewing:
