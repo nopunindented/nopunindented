@@ -3,7 +3,7 @@
 
 - I'm in my 4th year of software engineering at the University of Alberta
 - SWE Intern @Tesla on the Traffic Engineering team (distributed systems & infrastructure)  
-    - Working on OpenTelemetry, Kubernetes, and Prometheus for service monitoring
+    - Working on optimizing and setting up infrastructure for Robotaxi and tesla.com
 
 - I've completed 5 internships at companies including Fidelity Investments & Dayforce (formerly Ceridian)
 
