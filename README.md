@@ -1,9 +1,9 @@
 ### Ahoy there! I'm Umer Fiaz :D
 
-• I'm in my 4th year of software engineering at the University of Alberta
 
-• SWE Intern @Tesla on the Traffic Engineering team (distributed systems & infrastructure)                  
-  • Projects including setting up and optimizing infrastructure for Robotaxi and tesla.com
+- I'm in my 4th year of software engineering at the University of Alberta
+- SWE Intern @Tesla on the Traffic Engineering team (distributed systems & infrastructure)  
+    - Working on OpenTelemetry, Kubernetes, and Prometheus for service monitoring
 
 • I've completed 5 internships at companies including Fidelity Investments & Dayforce (formerly Ceridian)
 
