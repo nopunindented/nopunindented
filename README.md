@@ -9,7 +9,7 @@
 
 - Interested in making distributed, reliable, and scalable systems, fullstack development, AI/ML, and more!                     
 
-- You can checkout all of my work & extracurricular experiences, and projects, in-depth, on my website: https://umerfiaz.com/     
+- You can checkout all of my work & extracurricular experiences, and projects on my website: https://umerfiaz.com/     
 
 :point_right: Feel free to hit me up on LinkedIn: https://www.linkedin.com/in/umer-fiaz/
 
