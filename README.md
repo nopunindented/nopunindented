@@ -1,7 +1,7 @@
 ### Ahoy there! I'm Umer Fiaz :D
 
 
-- I'm in my 4th year of software engineering at the University of Alberta
+- I'm entering my 5th (and final) year of software engineering at the University of Alberta
 - SWE Intern @Tesla on the Traffic Engineering team (distributed systems & infrastructure)  
     - Working on optimizing and setting up infrastructure for Robotaxi and tesla.com
 
