@@ -1,7 +1,7 @@
 ### Ahoy there! I'm Umer Fiaz :D
 
 
-- I'm
+- I'm an SWE grad from Ualberta
 
 - I've completed 6 internships at companies including Tesla, Fidelity Investments, and Dayforce (formerly Ceridian)
 
