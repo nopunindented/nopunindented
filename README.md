@@ -1,11 +1,9 @@
 ### Ahoy there! I'm Umer Fiaz :D
 
 
-- I'm entering my 5th (and final) year of software engineering at the University of Alberta
-- SWE Intern @Tesla on the Traffic Engineering team (distributed systems & infrastructure)  
-    - Working on optimizing and setting up infrastructure for Robotaxi and tesla.com
+- I'm
 
-- I've completed 5 internships at companies including Fidelity Investments & Dayforce (formerly Ceridian)
+- I've completed 6 internships at companies including Tesla, Fidelity Investments, and Dayforce (formerly Ceridian)
 
 - Interested in making distributed, reliable, and scalable systems, fullstack development, AI/ML, and more!                     
 
